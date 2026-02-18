@@ -1,0 +1,374 @@
+[
+    {
+        "content": "Bermimpilah setinggi langit. Jika engkau jatuh, engkau akan jatuh di antara bintang-bintang.",
+        "author": "Soekarno",
+        "moods": [
+            "semangat"
+        ]
+    },
+    {
+        "content": "Cinta tidak berupa tatapan satu sama lain, tetapi memandang keluar bersama ke arah yang sama.",
+        "author": "B.J. Habibie",
+        "moods": [
+            "tenang",
+            "santai"
+        ]
+    },
+    {
+        "content": "Orang boleh pandai setinggi langit, tapi selama ia tidak menulis, ia akan hilang di dalam masyarakat dan dari sejarah.",
+        "author": "Pramoedya Ananta Toer",
+        "moods": [
+            "semangat"
+        ]
+    },
+    {
+        "content": "Kadang-kadang langit bisa kelihatan seperti lembar kosong. Padahal sebenarnya tidak. Bintang kamu tetap di sana. Bumi hanya sedang berputar.",
+        "author": "Dee Lestari",
+        "moods": [
+            "tenang",
+            "galau"
+        ]
+    },
+    {
+        "content": "Menangis tidak selalu berarti cengeng. Kadang itu hanya cara mata berbicara saat mulut tak sanggup menjelaskan.",
+        "author": "Fiersa Besari",
+        "moods": [
+            "galau"
+        ]
+    },
+    {
+        "content": "Rasa syukur adalah jendela bagi kebahagiaan sejati.",
+        "author": "Anonim",
+        "moods": [
+            "tenang"
+        ]
+    },
+    {
+        "content": "Terkadang kita perlu rehat sejenak dari riuhnya dunia, sekadar menyeduh kopi dan menikmati senja.",
+        "author": "Anonim",
+        "moods": [
+            "santai",
+            "tenang"
+        ]
+    },
+    {
+        "content": "Tidak ada yang abadi, baik bahagia maupun luka.",
+        "author": "Anonim",
+        "moods": [
+            "galau",
+            "tenang"
+        ]
+    },
+    {
+        "content": "Kegagalan hanya terjadi bila kita menyerah.",
+        "author": "B.J. Habibie",
+        "moods": [
+            "semangat"
+        ]
+    },
+    {
+        "content": "Bumi ini cukup untuk memenuhi kebutuhan semua orang, tapi tidak untuk keserakahan satu orang.",
+        "author": "Mahatma Gandhi",
+        "moods": [
+            "tenang"
+        ]
+    },
+    {
+        "content": "Jangan terlalu keras pada dirimu sendiri, sesekali nikmati angin yang berhembus santai.",
+        "author": "Anonim",
+        "moods": [
+            "santai"
+        ]
+    },
+    {
+        "content": "Hidup itu seperti mengendarai sepeda. Untuk menjaga keseimbangan, kamu harus terus bergerak.",
+        "author": "Albert Einstein",
+        "moods": [
+            "semangat",
+            "santai"
+        ]
+    },
+    {
+        "content": "Kita adalah apa yang kita kerjakan berulang-ulang. Keunggulan, karenanya, bukanlah suatu tindakan melainkan kebiasaan.",
+        "author": "Aristoteles",
+        "moods": [
+            "semangat",
+            "tenang"
+        ]
+    },
+    {
+        "content": "Luka yang paling dalam adalah luka yang tidak bisa dilihat oleh mata.",
+        "author": "Anonim",
+        "moods": [
+            "galau"
+        ]
+    },
+    {
+        "content": "Tidak masalah seberapa lambat kamu berjalan asalkan kamu tidak berhenti.",
+        "author": "Konfusius",
+        "moods": [
+            "semangat",
+            "tenang"
+        ]
+    },
+    {
+        "content": "Kebahagiaan bukan bergantung pada siapa dirimu atau apa yang kamu miliki, itu hanya bergantung pada apa yang kamu pikirkan.",
+        "author": "Dale Carnegie",
+        "moods": [
+            "tenang"
+        ]
+    },
+    {
+        "content": "Jalan masih panjang, seseruput kopi dulu biar nggak tegang.",
+        "author": "Anonim",
+        "moods": [
+            "santai"
+        ]
+    },
+    {
+        "content": "Ada rindu yang tidak pernah benar-benar tuntas, hanya dipaksa untuk selesai.",
+        "author": "Anonim",
+        "moods": [
+            "galau"
+        ]
+    },
+    {
+        "content": "Kamu tidak bisa kembali dan mengubah awal, tapi kamu bisa mulai dari tempatmu sekarang dan mengubah akhir.",
+        "author": "C.S. Lewis",
+        "moods": [
+            "semangat"
+        ]
+    },
+    {
+        "content": "Kedamaian dimulai dengan senyuman.",
+        "author": "Bunda Teresa",
+        "moods": [
+            "tenang",
+            "santai"
+        ]
+    },
+    {
+        "content": "Terkadang, melepaskan adalah satu-satunya cara untuk menemukan kedamaian.",
+        "author": "Anonim",
+        "moods": [
+            "galau",
+            "tenang"
+        ]
+    },
+    {
+        "content": "Apapun yang menjadi takdirmu, akan mencari jalannya menemukanmu.",
+        "author": "Ali bin Abi Thalib",
+        "moods": [
+            "tenang"
+        ]
+    },
+    {
+        "content": "Bekerja keraslah dalam kesunyian, biarkan kesuksesanmu menjadi kebisingannya.",
+        "author": "Frank Ocean",
+        "moods": [
+            "semangat"
+        ]
+    },
+    {
+        "content": "Kalau lagi capek ya istirahat, bukan menyerah.",
+        "author": "Anonim",
+        "moods": [
+            "santai",
+            "tenang"
+        ]
+    },
+    {
+        "content": "Harapan adalah mimpi dari seorang yang terjaga.",
+        "author": "Aristoteles",
+        "moods": [
+            "semangat"
+        ]
+    },
+    {
+        "content": "Waktu akan menyembuhkan luka, tapi bekasnya akan selalu ada.",
+        "author": "Anonim",
+        "moods": [
+            "galau"
+        ]
+    },
+    {
+        "content": "Cintai hidup yang kau jalani. Jalani hidup yang kau cintai.",
+        "author": "Bob Marley",
+        "moods": [
+            "santai",
+            "semangat"
+        ]
+    },
+    {
+        "content": "Ketakutan tidak akan mencegahmu mati, tapi mencegahmu hidup.",
+        "author": "Naguib Mahfouz",
+        "moods": [
+            "semangat"
+        ]
+    },
+    {
+        "content": "Pikiran yang tenang membawa kekuatan batin dan rasa percaya diri, jadi itu sangat penting untuk kesehatan yang baik.",
+        "author": "Dalai Lama",
+        "moods": [
+            "tenang"
+        ]
+    },
+    {
+        "content": "Biarkan semuanya mengalir seperti air. Nikmati saja prosesnya.",
+        "author": "Anonim",
+        "moods": [
+            "santai",
+            "tenang"
+        ]
+    },
+    {
+        "content": "Kehilangan mengajari kita betapa berharganya saat kita masih memiliki.",
+        "author": "Anonim",
+        "moods": [
+            "galau"
+        ]
+    },
+    {
+        "content": "Pendidikan adalah senjata paling mematikan di dunia, karena dengan pendidikan, kamu dapat mengubah dunia.",
+        "author": "Nelson Mandela",
+        "moods": [
+            "semangat"
+        ]
+    },
+    {
+        "content": "Setiap detak jantung adalah jatah waktu yang tak akan pernah kembali.",
+        "author": "Anonim",
+        "moods": [
+            "tenang",
+            "galau"
+        ]
+    },
+    {
+        "content": "Santai saja, besok juga masih ada matahari.",
+        "author": "Anonim",
+        "moods": [
+            "santai"
+        ]
+    },
+    {
+        "content": "Jangan menangis karena semuanya sudah selesai, tersenyumlah karena hal itu terjadi.",
+        "author": "Dr. Seuss",
+        "moods": [
+            "galau",
+            "tenang"
+        ]
+    },
+    {
+        "content": "Sukses bukanlah kunci dari kebahagiaan. Kebahagiaan adalah kunci dari kesuksesan.",
+        "author": "Albert Schweitzer",
+        "moods": [
+            "semangat",
+            "tenang"
+        ]
+    },
+    {
+        "content": "Kenangan adalah cara kita memegang hal-hal yang kita cintai, dan hal-hal yang kita tidak ingin hilangkan.",
+        "author": "Kevin Arnold",
+        "moods": [
+            "galau"
+        ]
+    },
+    {
+        "content": "Diam adalah sumber kekuatan yang luar biasa.",
+        "author": "Lao Tzu",
+        "moods": [
+            "tenang"
+        ]
+    },
+    {
+        "content": "Tarik napas dalam-dalam, lalu embuskan. Kamu sudah melakukan yang terbaik hari ini.",
+        "author": "Anonim",
+        "moods": [
+            "tenang",
+            "santai"
+        ]
+    },
+    {
+        "content": "Mimpi tidak akan menjadi kenyataan melalui keajaiban; itu membutuhkan keringat, tekad, dan kerja keras.",
+        "author": "Colin Powell",
+        "moods": [
+            "semangat"
+        ]
+    },
+    {
+        "content": "Mungkin kita memang dipertemukan hanya untuk sekadar tahu, bukan untuk menyatu.",
+        "author": "Anonim",
+        "moods": [
+            "galau"
+        ]
+    },
+    {
+        "content": "Kesehatan adalah kekayaan sejati dan bukan potongan emas dan perak.",
+        "author": "Mahatma Gandhi",
+        "moods": [
+            "tenang",
+            "santai"
+        ]
+    },
+    {
+        "content": "Tidak ada pelaut yang tangguh lahir dari laut yang tenang.",
+        "author": "Anonim",
+        "moods": [
+            "semangat"
+        ]
+    },
+    {
+        "content": "Sesekali jadilah seperti awan, mengambang bebas tanpa memikirkan beratnya beban.",
+        "author": "Anonim",
+        "moods": [
+            "santai",
+            "tenang"
+        ]
+    },
+    {
+        "content": "Patah hati adalah cara Tuhan menyelamatkanmu dari orang yang salah.",
+        "author": "Anonim",
+        "moods": [
+            "galau",
+            "tenang"
+        ]
+    },
+    {
+        "content": "Masa depan adalah milik mereka yang percaya pada keindahan mimpi-mimpi mereka.",
+        "author": "Eleanor Roosevelt",
+        "moods": [
+            "semangat"
+        ]
+    },
+    {
+        "content": "Hidup ini sangat sederhana, tapi kita bersikeras membuatnya rumit.",
+        "author": "Konfusius",
+        "moods": [
+            "santai",
+            "tenang"
+        ]
+    },
+    {
+        "content": "Pada akhirnya, kita hanya menyesali peluang yang tidak kita ambil.",
+        "author": "Lewis Carroll",
+        "moods": [
+            "galau",
+            "semangat"
+        ]
+    },
+    {
+        "content": "Jadilah perubahan yang ingin kamu lihat di dunia.",
+        "author": "Mahatma Gandhi",
+        "moods": [
+            "semangat"
+        ]
+    },
+    {
+        "content": "Cukup hari ini yang berlalu, harapan jangan.",
+        "author": "Anonim",
+        "moods": [
+            "galau",
+            "semangat"
+        ]
+    }
+]
