@@ -73,14 +73,23 @@ export default function Home({ quotes, moods, selectedMood }) {
 
             // Logic 2: Infinite Scroll Trigger
             // Gunakan buffer 100px sebelum mentok bawah
-            if (window.innerHeight + window.scrollY >= document.body.offsetHeight - 100) {
+            // Gunakan document.documentElement.scrollHeight untuk total tinggi dokumen yang lebih akurat
+            const scrollTop = window.scrollY || document.documentElement.scrollTop;
+            const windowHeight = window.innerHeight;
+            const fullHeight = document.documentElement.scrollHeight;
+
+            if (windowHeight + scrollTop >= fullHeight - 100) {
                 loadMore();
             }
         };
 
         window.addEventListener('scroll', handleScroll);
+
+        // Panggil sekali saat mount/update untuk cek apakah perlu load data (misal konten terlalu pendek)
+        handleScroll();
+
         return () => window.removeEventListener('scroll', handleScroll);
-    }, [quotes.next_page_url, isLoading]);
+    }, [quotes.next_page_url, isLoading, allQuotes]); // Tambahkan allQuotes agar dicek ulang saat data bertambah
 
     return (
         <div className="min-h-screen bg-gray-50 text-gray-900 font-sans">

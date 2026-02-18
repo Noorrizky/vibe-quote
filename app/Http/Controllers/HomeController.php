@@ -11,6 +11,12 @@ class HomeController extends Controller
 {
     public function index(Request $request)
     {
+        // Jika user melakukan full reload (bukan navigasi Inertia) dan ada parameter page,
+        // redirect ke halaman pertama agar state infinite scroll reset.
+        if ($request->has('page') && !$request->header('X-Inertia')) {
+            return redirect()->route('home', $request->except('page'));
+        }
+
         $selectedMood = $request->query('mood');
 
         // Ambil atau buat 'seed' unik untuk user ini di sesi ini
